@@ -1,0 +1,29 @@
+body {
+    background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAP8AAACZCAMAAADXexy/AAAAPFBMVEX////PFCsAJH3YQlX7/P2RoccOMIQKLYKAkr74+fvm6vLh5fBeda1NZqTAyd8sSpMmRZC4wttYcKrRHTNW81sBAAADSklEQVR4nO2dbVPCMBCEq/iKCor//786OqMZVNrmdvfCsLefgeRpd2mbpJdpmtPN7d01Re0nN1dz2rQPchq+f3icJVzS9pnSjVH8L08Q/ad2e0I/xvC/vsH0EycEI/hR6zfhIRjAT7B+ExqCdH6O9ZvAECTz86zfBIUgl59q/SYgBJn8bOs3xUOQx6+wflM0BGn8Ius3xUKQxK+zflMoBCn8Wus3bQ9nyX/YptB/qjsEev4M6zf1hkDNn2X9pr4rgZgf+Ne/CX+zJwRS/v0OoAdy0xECIT9i/d1+gsyzOgQ6frD3E3wEh/LD7p04PzOGn3DivpsRh0DCz+jzTzPaEAj4OZ6d2D+YxM86XUfN6ELA5qf19LgZWQi4/ESn/m5GFAImP/Uk/W1GEgIiP7d//zSjCAGNn+3Pf5vhh4DEzz81Jw4zOwQcfkE0T8WMfKQZ/JK/5tN/s9TmcH7RpXnuMku0G8yvujWbvc3iHXOQX3drvnCbzWoY4lc+mi0+ZnGMh/BLH82XH7MpRz/OLx6aWTPMQuhClF8+NLdumA22YJBfPzS7cpgVPQ8h/oyh+dXD7FhnAvwJo9I9/JgZA/wJsxJ9/JxJxtX8UfVNzfZNsxImmdX8nVPzvdPs8PoaLX/3+qTuZRZoCJT8gaU5gWU2WAiE/JGlWaFlVkgIZPyxpXmxZXZACET80aWZ0fbCkl//zlzFX/zFX/zFX/zFX/yj+TfJep/lf8/uzjTbnctX8Xur+L1V/N4qfm8Vv7eK31vF763i91bxe6v4vVX83ip+bxW/t4rfW/bzv+nz7bP8tf7h0lX8xV/8xV/8xV/84/nd3/+JfMn7/S/v9//M3//0fv/X+/1v8/f/ves/eNf/MK//4l3/x7v+k3n9L+/6b971/8zrP3rX//Su/2pe/9e7/rN3/W/z+u/e9f+9938w3//De/8X7/1/zPd/8t7/y3v/N/P9/7z3f3Tf/9N9/9eoLmX/35jM93/23v/be//30EqrDP6cEEQWGSXxJ4QgtsgsjV98JYguMkzkV4YgZv1kflkIotZP55eEIG79Afz8EADWH8FPDgFk/TH8xBCA1h/FzwoBav1h/JQQ4Nb/0hh+OAQM639pFP9iCD4AoyqbmgllYJYAAAAASUVORK5CYII=");
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    zoom: 100%;
+}
+
+.content {
+    background-color: white;
+    padding:5%;
+    margin: 10%;
+}
+
+h3 {
+    font-size: 150%;
+    font-family: cursive;
+    padding:10%;
+}
+
+p, label {
+    font-size: 100%;
+}
+
+.result {
+    color:crimson;
+    margin-left:20%;
+    margin-right:20%;
+    
+}
